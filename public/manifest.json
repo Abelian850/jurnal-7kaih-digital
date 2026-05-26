@@ -1,0 +1,24 @@
+{
+  "name": "Jurnal 7KAIH Digital",
+  "short_name": "Jurnal 7KAIH",
+  "description": "Sistem Jurnal Siswa Digital berbasis Guru Wali",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#16a34a",
+  "author": "Abyass Walker (AW)",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["education", "productivity"],
+  "lang": "id"
+}
