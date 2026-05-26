@@ -2,7 +2,7 @@
 
 > Sistem Jurnal Siswa Modern berbasis Guru Wali untuk Sekolah/Madrasah
 
-**Author: Abyass Walker (AW)**
+**Author: Abyss Walker (AW)**
 
 ---
 
